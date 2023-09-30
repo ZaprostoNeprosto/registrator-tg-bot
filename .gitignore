@@ -1,0 +1,6 @@
+node_modules/
+.idea
+src/config/.env
+src/data/output/filled_PDF/*
+src/data/output/filled_PDFScreenshots/*
+src/data/output/txt_files/*
